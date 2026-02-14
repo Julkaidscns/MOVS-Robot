@@ -5,7 +5,7 @@ This repository contains the design and development resources for a robot capabl
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ### Software
 Contains firmware and source code for the ESP32 microcontroller.
