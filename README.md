@@ -1,4 +1,4 @@
-# MOVS-Robot
+# MOVS Robot
 ### Robot moving on vertical surfaces and its implementation
 
 This repository contains the design and development resources for a robot capable of moving on vertical planes. The project includes embedded software, mechanical design files, and technical documentation required to build and operate the system.
