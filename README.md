@@ -1,5 +1,5 @@
 # MOVS-Robot
-# Robot moving on vertical surfaces and how to do it
+### Robot moving on vertical surfaces and how to do it
 
 This repository contains the design and development resources for a robot capable of moving on vertical planes. The project includes embedded software, mechanical design files, and technical documentation required to build and operate the system.
 
@@ -16,13 +16,11 @@ The software is responsible for:
 - Sensor data processing
 - Motors control
 
----
 
 ### CAD
 Contains 3D models and mechanical design files for robot components.  
 These parts are intended for manufacturing and 3D printing.
 
----
 
 ### Datasheets
 Contains technical documentation for electronic and mechanical components used in the project, like:
